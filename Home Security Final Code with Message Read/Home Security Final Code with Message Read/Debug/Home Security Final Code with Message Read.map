@@ -1,0 +1,638 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_exit.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm32.o (exit)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_tablejump.o)
+                              Home Security Final Code with Message Read.o (__tablejump2__)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_copy_data.o)
+                              Home Security Final Code with Message Read.o (__do_copy_data)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_clear_bss.o)
+                              Home Security Final Code with Message Read.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+Fire_LPG_Gate       0x1               Home Security Final Code with Message Read.o
+wrong_password_count
+                    0x1               Home Security Final Code with Message Read.o
+n                   0x1               Home Security Final Code with Message Read.o
+abc                 0x1               Home Security Final Code with Message Read.o
+change_password_value
+                    0x1               Home Security Final Code with Message Read.o
+received_data       0xc8              Home Security Final Code with Message Read.o
+first_time          0x1               Home Security Final Code with Message Read.o
+skip_display_SMS    0x1               Home Security Final Code with Message Read.o
+do_compare          0x1               Home Security Final Code with Message Read.o
+temp_input          0x1               Home Security Final Code with Message Read.o
+owner               0x1               Home Security Final Code with Message Read.o
+Fire_LPG            0x1               Home Security Final Code with Message Read.o
+skip_set            0x1               Home Security Final Code with Message Read.o
+LPG_Gate            0x1               Home Security Final Code with Message Read.o
+set_password        0x10              Home Security Final Code with Message Read.o
+Gate                0x1               Home Security Final Code with Message Read.o
+eeprom_data_a       0x1               Home Security Final Code with Message Read.o
+read_SMS            0x1               Home Security Final Code with Message Read.o
+keyPressed_count    0x1               Home Security Final Code with Message Read.o
+entered_password    0x10              Home Security Final Code with Message Read.o
+Fire_Gate           0x1               Home Security Final Code with Message Read.o
+Fire                0x1               Home Security Final Code with Message Read.o
+LPG                 0x1               Home Security Final Code with Message Read.o
+
+Discarded input sections
+
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm32.o
+ .text          0x00000000        0x0 Home Security Final Code with Message Read.o
+ .bss           0x00000000        0x0 Home Security Final Code with Message Read.o
+ .text.usart_receive_char
+                0x00000000        0x8 Home Security Final Code with Message Read.o
+ .text.usart_receive_string
+                0x00000000       0x26 Home Security Final Code with Message Read.o
+ .text.delete_message
+                0x00000000       0x58 Home Security Final Code with Message Read.o
+ .text.display_message
+                0x00000000      0x12a Home Security Final Code with Message Read.o
+ .text.write_data_at_0x03
+                0x00000000       0x14 Home Security Final Code with Message Read.o
+ .text.read_data_from_0x03
+                0x00000000       0x12 Home Security Final Code with Message Read.o
+ .text.read_message
+                0x00000000       0x70 Home Security Final Code with Message Read.o
+ .data.cloz_door
+                0x00000000        0xa Home Security Final Code with Message Read.o
+ .data.open_door
+                0x00000000        0xa Home Security Final Code with Message Read.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm32.o
+LOAD Home Security Final Code with Message Read.o
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr5\libm.a
+END GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr5\libc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x18c4
+ *(.vectors)
+ .vectors       0x00000000       0x54 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.read_sensor
+                0x00000054      0x136 Home Security Final Code with Message Read.o
+ *(.progmem*)
+                0x0000018a                . = ALIGN (0x2)
+                0x0000018a                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000018a        0x0 linker stubs
+ *(.trampolines*)
+                0x0000018a                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000018a                __ctors_start = .
+ *(.ctors)
+                0x0000018a                __ctors_end = .
+                0x0000018a                __dtors_start = .
+ *(.dtors)
+                0x0000018a                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000018a        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm32.o
+                0x0000018a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000018a        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000196       0x16 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_copy_data.o)
+                0x00000196                __do_copy_data
+ .init4         0x000001ac       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_clear_bss.o)
+                0x000001ac                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000001bc        0x8 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x000001c4        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm32.o
+                0x000001c4                __vector_1
+                0x000001c4                __vector_12
+                0x000001c4                __bad_interrupt
+                0x000001c4                __vector_6
+                0x000001c4                __vector_3
+                0x000001c4                __vector_11
+                0x000001c4                __vector_13
+                0x000001c4                __vector_17
+                0x000001c4                __vector_19
+                0x000001c4                __vector_7
+                0x000001c4                __vector_5
+                0x000001c4                __vector_4
+                0x000001c4                __vector_9
+                0x000001c4                __vector_2
+                0x000001c4                __vector_15
+                0x000001c4                __vector_8
+                0x000001c4                __vector_14
+                0x000001c4                __vector_10
+                0x000001c4                __vector_16
+                0x000001c4                __vector_18
+                0x000001c4                __vector_20
+                0x000001c8                . = ALIGN (0x2)
+ *(.text.*)
+ .text.LCD_cmnd
+                0x000001c8       0x4e Home Security Final Code with Message Read.o
+                0x000001c8                LCD_cmnd
+ .text.LCD_data
+                0x00000216       0x4e Home Security Final Code with Message Read.o
+                0x00000216                LCD_data
+ .text.LCD_initialize
+                0x00000264       0x92 Home Security Final Code with Message Read.o
+                0x00000264                LCD_initialize
+ .text.LCD_clear
+                0x000002f6       0x14 Home Security Final Code with Message Read.o
+                0x000002f6                LCD_clear
+ .text.LCD_print
+                0x0000030a       0x36 Home Security Final Code with Message Read.o
+                0x0000030a                LCD_print
+ .text.LCD_set_curser
+                0x00000340       0x1c Home Security Final Code with Message Read.o
+                0x00000340                LCD_set_curser
+ .text.LCD_num  0x0000035c       0x36 Home Security Final Code with Message Read.o
+                0x0000035c                LCD_num
+ .text.port_initialize
+                0x00000392        0xa Home Security Final Code with Message Read.o
+                0x00000392                port_initialize
+ .text.key_pad_initialize
+                0x0000039c       0x42 Home Security Final Code with Message Read.o
+                0x0000039c                key_pad_initialize
+ .text.usart_initialize
+                0x000003de        0xe Home Security Final Code with Message Read.o
+                0x000003de                usart_initialize
+ .text.usart_send_char
+                0x000003ec        0x8 Home Security Final Code with Message Read.o
+                0x000003ec                usart_send_char
+ .text.usart_send_string
+                0x000003f4       0x36 Home Security Final Code with Message Read.o
+                0x000003f4                usart_send_string
+ .text.send_message
+                0x0000042a      0x136 Home Security Final Code with Message Read.o
+                0x0000042a                send_message
+ .text.call_abort
+                0x00000560       0x60 Home Security Final Code with Message Read.o
+                0x00000560                call_abort
+ .text.on_buzzer
+                0x000005c0        0xe Home Security Final Code with Message Read.o
+                0x000005c0                on_buzzer
+ .text.on_buzzer_led
+                0x000005ce        0xe Home Security Final Code with Message Read.o
+                0x000005ce                on_buzzer_led
+ .text.on_buzzer_fan
+                0x000005dc        0xe Home Security Final Code with Message Read.o
+                0x000005dc                on_buzzer_fan
+ .text.on_buzzer_led_fan
+                0x000005ea        0xe Home Security Final Code with Message Read.o
+                0x000005ea                on_buzzer_led_fan
+ .text.dc_motor_forward
+                0x000005f8       0x24 Home Security Final Code with Message Read.o
+                0x000005f8                dc_motor_forward
+ .text.dc_motor_backward
+                0x0000061c       0x24 Home Security Final Code with Message Read.o
+                0x0000061c                dc_motor_backward
+ .text.keypressed_tone
+                0x00000640       0x2a Home Security Final Code with Message Read.o
+                0x00000640                keypressed_tone
+ .text.keypressed_tone1
+                0x0000066a       0x22 Home Security Final Code with Message Read.o
+                0x0000066a                keypressed_tone1
+ .text.keypressed_tone2
+                0x0000068c       0x22 Home Security Final Code with Message Read.o
+                0x0000068c                keypressed_tone2
+ .text.keypressed_tone3
+                0x000006ae       0x22 Home Security Final Code with Message Read.o
+                0x000006ae                keypressed_tone3
+ .text.buzzer_alert
+                0x000006d0       0x80 Home Security Final Code with Message Read.o
+                0x000006d0                buzzer_alert
+ .text.write_data_at_0x00
+                0x00000750       0x10 Home Security Final Code with Message Read.o
+                0x00000750                write_data_at_0x00
+ .text.write_data_a_in_eeprom
+                0x00000760       0x14 Home Security Final Code with Message Read.o
+                0x00000760                write_data_a_in_eeprom
+ .text.read_data_from_0x00
+                0x00000774        0xe Home Security Final Code with Message Read.o
+                0x00000774                read_data_from_0x00
+ .text.read_data_a_from_eeprom
+                0x00000782       0x16 Home Security Final Code with Message Read.o
+                0x00000782                read_data_a_from_eeprom
+ .text.read_password
+                0x00000798       0x3e Home Security Final Code with Message Read.o
+                0x00000798                read_password
+ .text.save_password
+                0x000007d6       0x42 Home Security Final Code with Message Read.o
+                0x000007d6                save_password
+ .text.main     0x00000818       0xa0 Home Security Final Code with Message Read.o
+                0x00000818                main
+ .text.read_temperature
+                0x000008b8       0xbe Home Security Final Code with Message Read.o
+                0x000008b8                read_temperature
+ .text.door_open_close
+                0x00000976      0x174 Home Security Final Code with Message Read.o
+                0x00000976                door_open_close
+ .text.compare_password
+                0x00000aea      0x128 Home Security Final Code with Message Read.o
+                0x00000aea                compare_password
+ .text.input_key
+                0x00000c12      0x5a0 Home Security Final Code with Message Read.o
+                0x00000c12                input_key
+ .text.stop_buzzer
+                0x000011b2       0x40 Home Security Final Code with Message Read.o
+                0x000011b2                stop_buzzer
+ .text.buzzer_led_fan
+                0x000011f2       0xb6 Home Security Final Code with Message Read.o
+                0x000011f2                buzzer_led_fan
+ .text.buzzer_fan
+                0x000012a8       0x7c Home Security Final Code with Message Read.o
+                0x000012a8                buzzer_fan
+ .text.buzzer_led
+                0x00001324       0xa6 Home Security Final Code with Message Read.o
+                0x00001324                buzzer_led
+ .text.buzzer   0x000013ca       0x76 Home Security Final Code with Message Read.o
+                0x000013ca                buzzer
+ .text.voice_call
+                0x00001440       0xf4 Home Security Final Code with Message Read.o
+                0x00001440                voice_call
+ .text.read_sensor
+                0x00001534      0x380 Home Security Final Code with Message Read.o
+                0x00001534                read_sensor
+ .text.libgcc   0x000018b4        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_tablejump.o)
+                0x000018b4                __tablejump2__
+                0x000018b8                __tablejump__
+                0x000018c0                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000018c0        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_exit.o)
+                0x000018c0                _exit
+                0x000018c0                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000018c0        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000018c4                _etext = .
+
+.data           0x00800060      0x330 load address 0x000018c4
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 Home Security Final Code with Message Read.o
+ .data          0x00800060        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_exit.o)
+ .data          0x00800060        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_tablejump.o)
+ .data          0x00800060        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800060        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr5\libgcc.a(_clear_bss.o)
+ *(.data*)
+ .data.OK       0x00800060        0x1 Home Security Final Code with Message Read.o
+                0x00800060                OK
+ .data.password_exist
+                0x00800061        0x1 Home Security Final Code with Message Read.o
+                0x00800061                password_exist
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800062      0x32d Home Security Final Code with Message Read.o
+                                0x385 (size before relaxing)
+ *(.gnu.linkonce.d*)
+                0x00800390                . = ALIGN (0x2)
+ *fill*         0x0080038f        0x1 
+                0x00800390                _edata = .
+                0x00800390                PROVIDE (__data_end, .)
+
+.bss            0x00800390       0xfd
+                0x00800390                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.call_main_count
+                0x00800390        0x1 Home Security Final Code with Message Read.o
+                0x00800390                call_main_count
+ *(COMMON)
+ COMMON         0x00800391       0xfc Home Security Final Code with Message Read.o
+                0x00800391                Fire_LPG_Gate
+                0x00800392                wrong_password_count
+                0x00800393                n
+                0x00800394                abc
+                0x00800395                change_password_value
+                0x00800396                received_data
+                0x0080045e                first_time
+                0x0080045f                skip_display_SMS
+                0x00800460                do_compare
+                0x00800461                temp_input
+                0x00800462                owner
+                0x00800463                Fire_LPG
+                0x00800464                skip_set
+                0x00800465                LPG_Gate
+                0x00800466                set_password
+                0x00800476                Gate
+                0x00800477                eeprom_data_a
+                0x00800478                read_SMS
+                0x00800479                keyPressed_count
+                0x0080047a                entered_password
+                0x0080048a                Fire_Gate
+                0x0080048b                Fire
+                0x0080048c                LPG
+                0x0080048d                PROVIDE (__bss_end, .)
+                0x000018c4                __data_load_start = LOADADDR (.data)
+                0x00001bf4                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080048d        0x0
+                0x0080048d                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080048d                PROVIDE (__noinit_end, .)
+                0x0080048d                _end = .
+                0x0080048d                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab           0x00000000      0x6cc
+ *(.stab)
+ .stab          0x00000000      0x6cc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm32.o
+
+.stabstr        0x00000000       0x97
+ *(.stabstr)
+ .stabstr       0x00000000       0x97 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm32.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x2f
+ *(.comment)
+ .comment       0x00000000       0x2f Home Security Final Code with Message Read.o
+                                 0x30 (size before relaxing)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1a8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000      0x1a8 Home Security Final Code with Message Read.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x38d4
+ *(.debug_info)
+ .debug_info    0x00000000     0x38d4 Home Security Final Code with Message Read.o
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x33a
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x33a Home Security Final Code with Message Read.o
+
+.debug_line     0x00000000      0xdbb
+ *(.debug_line)
+ .debug_line    0x00000000      0xdbb Home Security Final Code with Message Read.o
+
+.debug_frame    0x00000000      0x440
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x440 Home Security Final Code with Message Read.o
+
+.debug_str      0x00000000      0x5a0
+ *(.debug_str)
+ .debug_str     0x00000000      0x5a0 Home Security Final Code with Message Read.o
+                                0x649 (size before relaxing)
+
+.debug_loc      0x00000000     0x12db
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x12db Home Security Final Code with Message Read.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x198
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x198 Home Security Final Code with Message Read.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Home Security Final Code with Message Read.elf elf32-avr)
+LOAD linker stubs
