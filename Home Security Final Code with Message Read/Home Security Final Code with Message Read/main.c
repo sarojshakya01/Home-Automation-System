@@ -214,7 +214,7 @@ void send_message()//Function to send the message
 	LCD_print("SMS Sending... ");
 	LCD_set_curser(2,1);
 	LCD_print("To +9779841491322");
-	usart_send_string("AT\r\n");		// Transmit AT to the module – GSM Modem sendsOK
+	usart_send_string("AT\r\n");		// Transmit AT to the module â€“ GSM Modem sendsOK
 	_delay_ms(GSM_operation_delay);
 	usart_send_string("ATE0\r\n");		// Echo Off
 	_delay_ms(GSM_operation_delay);
@@ -240,7 +240,7 @@ void send_message()//Function to send the message
 void voice_call() //Function for voice call
 {
 	usart_initialize();
-	usart_send_string("AT\r\n");		// Transmit AT to the module – GSM Modem sendsOK
+	usart_send_string("AT\r\n");		// Transmit AT to the module â€“ GSM Modem sendsOK
 	_delay_ms(GSM_operation_delay);
 	LCD_clear();
 	if ((INPUT_PIN & 0x13) != temp_input) main();
@@ -275,7 +275,7 @@ void voice_call() //Function for voice call
 void call_abort() //Function to abort the  current call
 {
 	usart_initialize();
-	usart_send_string("AT\r\n");		// Transmit AT to the module – GSM Modem sendsOK
+	usart_send_string("AT\r\n");		// Transmit AT to the module â€“ GSM Modem sendsOK
 	_delay_ms(GSM_operation_delay);
 	usart_send_string("ATE0\r\n");		// Echo Off
 	_delay_ms(GSM_operation_delay);
@@ -286,7 +286,7 @@ void call_abort() //Function to abort the  current call
 }
 void read_message()
 {
-	usart_send_string("AT\r\n");		// Transmit AT to the module – GSM Modem sendsOK
+	usart_send_string("AT\r\n");		// Transmit AT to the module â€“ GSM Modem sendsOK
 	_delay_ms(500);
 	//usart_send_string("ATE0\r\n");		// Echo Off
 	_delay_ms(500);
@@ -301,7 +301,7 @@ void read_message()
 }
 void delete_message()
 {
-	usart_send_string("AT\r\n");		// Transmit AT to the module – GSM Modem sendsOK
+	usart_send_string("AT\r\n");		// Transmit AT to the module â€“ GSM Modem sendsOK
 	_delay_ms(500);
 	usart_send_string("ATE0\r\n");		// Echo Off
 	_delay_ms(500);
